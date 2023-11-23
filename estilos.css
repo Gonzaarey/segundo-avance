@@ -150,3 +150,9 @@ body {
 .seccion5 {
     padding: 2rem;
 }
+
+.seccion5__boton {
+    background-color: red;
+    border-color: red;
+    width: 100%;
+}
